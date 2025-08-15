@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Firebase cache & config
+.firebase/
+firebase-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/

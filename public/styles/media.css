@@ -10,14 +10,14 @@
     }
     
     @keyframes sequencePopup {
-    0%, 100% { content: "data engineer"; }
-    25% { content: "data analyst"; }
-    50% { content: "business intelligence eng."; }
-    75% { content: "analytics engineer"; }
+    0%, 100% { content: "Computer Scientist"; }
+    25% { content: "Full-Stack Developer"; }
+    50% { content: "IT Specialist"; }
+    75% { content: "Technology Enthuciast"; }
     }
 
     .typewriter::before {
-    content: "data engineer";
+    content: "Computer Scientist";
     animation: sequencePopup 12s linear infinite;
     }
 }
